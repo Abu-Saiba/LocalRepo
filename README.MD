@@ -16,3 +16,5 @@ Git is a distributed version control system that allows developers to track chan
 - **Projects**: Organize and prioritize your work.
 <br>
 Git and GitHub together provide a powerful platform for collaborative software development.
+
+# this is my final commit
